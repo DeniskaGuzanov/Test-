@@ -1,0 +1,15 @@
+/Users/mac/Desktop/1/x3/bin/Debug/net6.0/x3
+/Users/mac/Desktop/1/x3/bin/Debug/net6.0/x3.deps.json
+/Users/mac/Desktop/1/x3/bin/Debug/net6.0/x3.runtimeconfig.json
+/Users/mac/Desktop/1/x3/bin/Debug/net6.0/x3.dll
+/Users/mac/Desktop/1/x3/bin/Debug/net6.0/x3.pdb
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/x3.csproj.AssemblyReference.cache
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/x3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/x3.AssemblyInfoInputs.cache
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/x3.AssemblyInfo.cs
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/x3.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/x3.dll
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/refint/x3.dll
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/x3.pdb
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/x3.genruntimeconfig.cache
+/Users/mac/Desktop/1/x3/obj/Debug/net6.0/ref/x3.dll
