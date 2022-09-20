@@ -1,0 +1,15 @@
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/x2.csproj.AssemblyReference.cache
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/x2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/x2.AssemblyInfoInputs.cache
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/x2.AssemblyInfo.cs
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/x2.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/1/x2/bin/Debug/net6.0/x2
+/Users/mac/Desktop/1/x2/bin/Debug/net6.0/x2.deps.json
+/Users/mac/Desktop/1/x2/bin/Debug/net6.0/x2.runtimeconfig.json
+/Users/mac/Desktop/1/x2/bin/Debug/net6.0/x2.dll
+/Users/mac/Desktop/1/x2/bin/Debug/net6.0/x2.pdb
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/x2.dll
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/refint/x2.dll
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/x2.pdb
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/x2.genruntimeconfig.cache
+/Users/mac/Desktop/1/x2/obj/Debug/net6.0/ref/x2.dll
