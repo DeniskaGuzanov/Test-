@@ -16,7 +16,8 @@ if (a < 100 )
 else
  {
     int b = int.Parse(Convert.ToString(a)[2].ToString());
+  
     Console.WriteLine(b);
-}
+ }
 
 
