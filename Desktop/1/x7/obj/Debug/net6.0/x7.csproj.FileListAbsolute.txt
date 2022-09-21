@@ -1,0 +1,15 @@
+/Users/mac/Desktop/1/x7/bin/Debug/net6.0/x7
+/Users/mac/Desktop/1/x7/bin/Debug/net6.0/x7.deps.json
+/Users/mac/Desktop/1/x7/bin/Debug/net6.0/x7.runtimeconfig.json
+/Users/mac/Desktop/1/x7/bin/Debug/net6.0/x7.dll
+/Users/mac/Desktop/1/x7/bin/Debug/net6.0/x7.pdb
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/x7.csproj.AssemblyReference.cache
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/x7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/x7.AssemblyInfoInputs.cache
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/x7.AssemblyInfo.cs
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/x7.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/x7.dll
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/refint/x7.dll
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/x7.pdb
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/x7.genruntimeconfig.cache
+/Users/mac/Desktop/1/x7/obj/Debug/net6.0/ref/x7.dll
