@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Lesson C#/y4/bin/Debug/net6.0/y4
+/Users/mac/Desktop/Lesson C#/y4/bin/Debug/net6.0/y4.deps.json
+/Users/mac/Desktop/Lesson C#/y4/bin/Debug/net6.0/y4.runtimeconfig.json
+/Users/mac/Desktop/Lesson C#/y4/bin/Debug/net6.0/y4.dll
+/Users/mac/Desktop/Lesson C#/y4/bin/Debug/net6.0/y4.pdb
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/y4.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/y4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/y4.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/y4.AssemblyInfo.cs
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/y4.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/y4.dll
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/refint/y4.dll
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/y4.pdb
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/y4.genruntimeconfig.cache
+/Users/mac/Desktop/Lesson C#/y4/obj/Debug/net6.0/ref/y4.dll
