@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Lesson C#/zadacha44/bin/Debug/net6.0/zadacha44
+/Users/mac/Desktop/Lesson C#/zadacha44/bin/Debug/net6.0/zadacha44.deps.json
+/Users/mac/Desktop/Lesson C#/zadacha44/bin/Debug/net6.0/zadacha44.runtimeconfig.json
+/Users/mac/Desktop/Lesson C#/zadacha44/bin/Debug/net6.0/zadacha44.dll
+/Users/mac/Desktop/Lesson C#/zadacha44/bin/Debug/net6.0/zadacha44.pdb
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/zadacha44.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/zadacha44.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/zadacha44.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/zadacha44.AssemblyInfo.cs
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/zadacha44.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/zadacha44.dll
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/refint/zadacha44.dll
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/zadacha44.pdb
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/zadacha44.genruntimeconfig.cache
+/Users/mac/Desktop/Lesson C#/zadacha44/obj/Debug/net6.0/ref/zadacha44.dll
