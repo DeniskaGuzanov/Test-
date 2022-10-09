@@ -7,7 +7,8 @@
 
 Console.WriteLine ("Введите несколько чисел M --> через пробел");
 int [] array = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
-void ArraySum(int [] arr) 
+
+void ArraySum(int [] arr)           
 {
     int count = 0;
     for (int i = 0; i < arr.Length; i++)
@@ -18,5 +19,5 @@ void ArraySum(int [] arr)
 }
 
 ArraySum(array);
-
+                                                                                                                                                                                                                                                                                                         
 
