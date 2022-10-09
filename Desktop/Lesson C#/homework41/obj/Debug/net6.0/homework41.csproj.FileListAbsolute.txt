@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Lesson C#/homework41/bin/Debug/net6.0/homework41
+/Users/mac/Desktop/Lesson C#/homework41/bin/Debug/net6.0/homework41.deps.json
+/Users/mac/Desktop/Lesson C#/homework41/bin/Debug/net6.0/homework41.runtimeconfig.json
+/Users/mac/Desktop/Lesson C#/homework41/bin/Debug/net6.0/homework41.dll
+/Users/mac/Desktop/Lesson C#/homework41/bin/Debug/net6.0/homework41.pdb
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/homework41.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/homework41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/homework41.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/homework41.AssemblyInfo.cs
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/homework41.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/homework41.dll
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/refint/homework41.dll
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/homework41.pdb
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/homework41.genruntimeconfig.cache
+/Users/mac/Desktop/Lesson C#/homework41/obj/Debug/net6.0/ref/homework41.dll
