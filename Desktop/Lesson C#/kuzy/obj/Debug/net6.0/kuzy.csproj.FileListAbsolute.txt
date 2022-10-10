@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Lesson C#/kuzy/bin/Debug/net6.0/kuzy
+/Users/mac/Desktop/Lesson C#/kuzy/bin/Debug/net6.0/kuzy.deps.json
+/Users/mac/Desktop/Lesson C#/kuzy/bin/Debug/net6.0/kuzy.runtimeconfig.json
+/Users/mac/Desktop/Lesson C#/kuzy/bin/Debug/net6.0/kuzy.dll
+/Users/mac/Desktop/Lesson C#/kuzy/bin/Debug/net6.0/kuzy.pdb
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/kuzy.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/kuzy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/kuzy.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/kuzy.AssemblyInfo.cs
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/kuzy.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/kuzy.dll
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/refint/kuzy.dll
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/kuzy.pdb
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/kuzy.genruntimeconfig.cache
+/Users/mac/Desktop/Lesson C#/kuzy/obj/Debug/net6.0/ref/kuzy.dll
