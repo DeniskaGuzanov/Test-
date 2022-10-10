@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Lesson C#/lesson8/bin/Debug/net6.0/lesson8
+/Users/mac/Desktop/Lesson C#/lesson8/bin/Debug/net6.0/lesson8.deps.json
+/Users/mac/Desktop/Lesson C#/lesson8/bin/Debug/net6.0/lesson8.runtimeconfig.json
+/Users/mac/Desktop/Lesson C#/lesson8/bin/Debug/net6.0/lesson8.dll
+/Users/mac/Desktop/Lesson C#/lesson8/bin/Debug/net6.0/lesson8.pdb
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/lesson8.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/lesson8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/lesson8.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/lesson8.AssemblyInfo.cs
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/lesson8.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/lesson8.dll
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/refint/lesson8.dll
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/lesson8.pdb
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/lesson8.genruntimeconfig.cache
+/Users/mac/Desktop/Lesson C#/lesson8/obj/Debug/net6.0/ref/lesson8.dll
