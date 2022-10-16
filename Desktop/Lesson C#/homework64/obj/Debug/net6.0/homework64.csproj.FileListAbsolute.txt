@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/homework64.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/homework64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/homework64.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/homework64.AssemblyInfo.cs
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/homework64.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Lesson C#/homework64/bin/Debug/net6.0/homework64
+/Users/mac/Desktop/Lesson C#/homework64/bin/Debug/net6.0/homework64.deps.json
+/Users/mac/Desktop/Lesson C#/homework64/bin/Debug/net6.0/homework64.runtimeconfig.json
+/Users/mac/Desktop/Lesson C#/homework64/bin/Debug/net6.0/homework64.dll
+/Users/mac/Desktop/Lesson C#/homework64/bin/Debug/net6.0/homework64.pdb
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/homework64.dll
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/refint/homework64.dll
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/homework64.pdb
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/homework64.genruntimeconfig.cache
+/Users/mac/Desktop/Lesson C#/homework64/obj/Debug/net6.0/ref/homework64.dll
