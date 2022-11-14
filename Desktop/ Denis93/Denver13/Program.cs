@@ -23,3 +23,5 @@ foreach (var item in Text)
     }
    
 }
+
+Console.WriteLine(string.Join(",",result,0,res));
